@@ -10,8 +10,6 @@ Built using **React**, **Tailwind CSS**, and **GSAP**, this project is perfect f
 ThirtySix Studio combines modern design principles with seamless animations to deliver an exceptional user experience.  
 It serves as a great base for building high-quality, interactive portfolio websites.
 
-Note: Click ThirtySixStudio txt to see actual animation
-
 
 ## 🛠️ Tech Stack
 
@@ -29,6 +27,7 @@ Note: Click ThirtySixStudio txt to see actual animation
 
 
 ## 🌐 Live Demo
+Note: Click ThirtySixStudio txt to see actual animation
 
 👉 [Live Preview](https://thirty-six-studio36-h9h2-8c94z5vjj-nishikant4246s-projects.vercel.app/)
 
