@@ -25,13 +25,13 @@ It serves as a great base for building high-quality, interactive portfolio websi
 - **Reusable Components:** Modular React components for flexibility.  
 
 
-## 🌐 Live Demo
+## 🌐 Live Demo:
 Note: Click ThirtySixStudio txt to see actual animation.
 
 👉 [Live Preview](https://thirty-six-studio36-h9h2-8c94z5vjj-nishikant4246s-projects.vercel.app/)
 
 
-## 🤝 Connect with Me
+## 🤝 Connect with Me: 
 
 - 👨‍💻 GitHub: [Nishikant4246](https://github.com/Nishikant4246)  
 - 🔗 LinkedIn: [Nishikant V. Kshirsagar](https://www.linkedin.com/in/nishikant-v-kshirsagar-483a2b259/)  
